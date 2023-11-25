@@ -1,0 +1,139 @@
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 15:57:36",
+    "key": "aadad985b14f47308b80c9edc9418740",
+    "second_key": "1"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 15:58:05",
+    "key": "d147203a8fa9b3d544103507898cbd9d",
+    "second_key": "1"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 16:04:10",
+    "key": "acc60c0ca21295c78a3579224e7c22cd",
+    "second_key": "1"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 16:14:11",
+    "key": "21fe6b154c2dae1de66b8c507e4d906b",
+    "second_key": "1"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 16:15:22",
+    "key": "6bb6a195c6d0d054c95ba3bc93552b74",
+    "second_key": "1"
+}
+{
+    "activity": "DESENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 16:16:12",
+    "second_key": "1"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 16:55:33",
+    "key": "18491d0142a22225de03362a7e7ed82c",
+    "second_key": "1"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 16:55:57",
+    "key": "64dbe15aa9294353b04edd0951be520c",
+    "second_key": "1"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 17:19:53",
+    "key": "5303b58b59e51b66212a26511ba98a29",
+    "second_key": "esteban"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 17:32:55",
+    "key": "0f82af42873691234f9bc591a148716f",
+    "second_key": "damianduquel2"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 17:36:49",
+    "key": "ea5fb54145a9ea2f64b767015066087d",
+    "second_key": "damianduquel2"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 17:38:40",
+    "key": "f0c90acb755a4cb5b9754fef75ec821c",
+    "second_key": "damianduquel2"
+}
+{
+    "activity": "DESENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 17:40:27",
+    "second_key": "1"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 17:53:24",
+    "key": "688dab46c7a590ed4b309843a3d3da0c",
+    "second_key": "vivianahoyossierra"
+}
+{
+    "activity": "DESENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 17:56:40",
+    "second_key": "1"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 18:19:00",
+    "key": "6cd09902950fd8bbbdfa29d01caa5595",
+    "second_key": "damianduquel2"
+}
+{
+    "activity": "DESENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 18:30:13",
+    "second_key": "1"
+}
+{
+    "activity": "DESENCRYPTOR",
+    "ip": "192.168.1.16",
+    "computer_name": "LAPTOP-C00A7KHH",
+    "timestamp": "2023-11-25 18:30:46",
+    "second_key": "1"
+}
