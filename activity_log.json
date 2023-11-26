@@ -1,0 +1,192 @@
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 15:06:44",
+    "key": "c08cb532e8d4cbd39953f4c19d4b7acd",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 15:10:39",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 15:14:15",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 15:14:35",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 15:15:37",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 15:15:56",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 15:22:27",
+    "key": "697130615a96546ebb50817ba8c17f07",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 15:22:39",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 15:23:19",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 15:24:22",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 15:51:03",
+    "key": "5eba4a6a180dd9869348d7545f20a13f",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 15:51:22",
+    "key": "8cabe04e3d1c1809f25ca1499ae4ba6f",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 15:51:59",
+    "key": "6efdfe74dddaf6be0ff43686bd2c4e8f",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 15:52:30",
+    "key": "a536447ee4927c9232df93aac6673b03",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 15:59:25",
+    "key": "2d0305daa37b8cb699ad762a587ab424",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 16:06:00",
+    "key": "f7659fcea8ff7972c618a7678a8ad973",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 16:16:27",
+    "key": "a23fc6083ebc13709dd38291387b27a0",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 16:20:13",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 16:25:46",
+    "key": "7c49352900dc4546de7a01291d0bb621",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 16:26:03",
+    "key": "40d120ae3b50a7a437e7e82ad76ce2c5",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 16:27:23",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 16:27:53",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
+{
+    "activity": "ENCRYPTOR",
+    "ip": "127.0.1.1",
+    "computer_name": "adrephos",
+    "timestamp": "2023-11-26 16:28:30",
+    "key": "5ef34f67a113734985e3f2b8e1a847a7",
+    "second_key": "avendanoesteban12"
+}
+{
+    "activity": "DECRYPTION",
+    "ip": "127.0.1.1",
+    "user_email": "avendanoesteban12@gmail.com",
+    "timestamp": "2023-11-26 16:29:37",
+    "second_key": "avendanoesteban12",
+    "state": "success"
+}
